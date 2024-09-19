@@ -7,7 +7,11 @@ function Page404(){
         <>
             <Header />
             <Container>
-                <h1>Errado algo esta aqui</h1>
+                <h1>AGORA VAI?</h1>
+                <div>
+                    <span>404</span>
+                    <strong>TEM ALGO ERRADO MERMÃO</strong>
+                </div>
             </Container>
             <Footer />
         </>
