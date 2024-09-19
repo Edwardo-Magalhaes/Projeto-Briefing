@@ -1,0 +1,25 @@
+:root {
+  font-family: 'fira Coda', monospace;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --primaria: #16213e;
+  --secundaria: #0f3460;
+  --terciaria: #533483;
+  --branco: #ffffff;
+  --preto: #000000;
+  
+  --red: #e94560;
+  --soft-white: #f1f1f1;
+  --gray: #222222;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
