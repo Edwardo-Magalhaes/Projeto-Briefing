@@ -10,15 +10,14 @@ function Apresentacao(){
           
           <div className={styles.apresentacao}>
             <p>
-              Olá, Hello, Hola, <br/>
-              <span>Sou gente boa</span><br/>
-              Dev otimo
+              Bem-vindo ao Briefing.<br/>
+              <span>Local onde suas ideias</span><br/>
+              Ganham vidas
             </p>
-            <button className={`${styles.btn} ${styles.btn_red}`}>saiba mais aqui</button>
           </div>
-  
+        
           <figure>
-            <img className={styles.img_apresentacao} src="/undraw_undraw_undraw_undraw_undraw_website_o7n3_bucy_30uo_-1-_d6br_0qfo.svg" alt="Imagem de apresentação" />
+            <img className={styles.img_apresentacao} src="undraw_search_app_oso2.svg" alt="Imagem de apresentação" />
           </figure>
 
         </section>
@@ -26,8 +25,10 @@ function Apresentacao(){
         <section className={styles.container2}>
           <div className={styles.parte2}>
             <h1>Cliente</h1>
+            <img className={styles.img_cliente} src="undraw_fitting_piece_re_pxay.svg" alt="Imagem do cliente" />
           </div>
           <div className={styles.parte21}>
+            <img className={styles.img_cliente} src="undraw_revenue_re_2bmg.svg" alt="Imagem do profissional" />
             <h1>Porfessional</h1>
           </div>
         </section>
