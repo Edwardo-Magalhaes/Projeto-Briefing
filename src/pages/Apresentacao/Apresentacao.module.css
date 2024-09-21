@@ -57,7 +57,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: var(--gray);
+    background-color: var(--branco);
     margin-top: 15px;
     margin-bottom: 30px;
     width: 70%;
@@ -72,10 +72,11 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: var(--gray);
+    background-color: var(--branco);
     width: 70%;
     height: 50vh;
     margin-bottom: 30px;
+
 }
 
 .parte21 img{
